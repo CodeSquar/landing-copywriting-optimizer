@@ -1,0 +1,36 @@
+{
+  "name": "Skins v7 category-lead",
+  "state": {
+    "url": "/minecraft-skin-generator",
+    "lang": "en",
+    "meta": {
+      "title": "AI Minecraft Skin Generator | BlockyGPT",
+      "description": "An AI skin generator for Minecraft players. Beautiful skins from one idea."
+    },
+    "hero": {
+      "h1": "Your best Minecraft skin starts with one idea.",
+      "sub": "An AI skin generator for Minecraft players. Beautiful skins from one idea. Free to start.",
+      "cta_primary": "Try free",
+      "cta_secondary": "See plans"
+    },
+    "facts": [
+      {"value": "Ready to wear", "label": "Made for play"},
+      {"value": "Made with AI", "label": "From one idea"},
+      {"value": "Easy to refine", "label": "Until it feels right"},
+      {"value": "Free to start", "label": "No card needed"}
+    ],
+    "sections": [
+      {
+        "h2": "Stand out in every world you join.",
+        "text": "A character that feels like yours, ready for any adventure.",
+        "points": ["Personal by default", "Ready for play", "Yours to keep"]
+      },
+      {
+        "h2": "The fastest way from an idea to a finished skin.",
+        "text": "New versions in seconds. Compare, keep the best.",
+        "points": ["Fast versions", "Side-by-side compare", "Keep the best"]
+      }
+    ],
+    "final_cta": "Your best skin is one idea away. Start free."
+  }
+}
